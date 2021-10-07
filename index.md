@@ -20,5 +20,5 @@ Project Deliverables
 Presentation file(s) for Post-Mortem/Lessons Learned
 ### Final Essay
 
-###Other Work Examples:
+### Other Work Examples:
 [Merecen Ser Recordados](https://www.familysearch.org/latam/merecen-ser-recordados)
