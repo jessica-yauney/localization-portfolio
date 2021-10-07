@@ -4,8 +4,8 @@
 Create a well-organized portfolio, with a single introductory page [don't stress about the length of this page, just make it clear] that concisely outlines and describes the contents.  Introduce it as you would to a future employer or graduate program, showing what you have accomplished this semester. (Note, you are not introducing this to the professor.)
 
  
-###Projects
-####Project 1: Creating a localization project
+### Projects
+#### Project 1: Creating a localization project
 
 Source file
 Target file
