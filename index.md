@@ -7,8 +7,8 @@ This website outlines the work products created in BYU's Introduction to Localiz
 ### Projects
 #### Project 1: Creating a localization project
 
-Source file
-Target file<br/><br/>
+[Source file](https://github.com/jessica-yauney/localization-portfolio/blob/main/Source%20File.html)
+[Target file](https://github.com/jessica-yauney/localization-portfolio/blob/main/Target%20File.html)<br/><br/>
 I chose to use lingotek because it is one of the bigger CAT tools and I assumed there would be greater support if needed.<br/><br/>
 I started creating my project by selecting a source material that has not been translated but I felt would be useful in multiple languages. I selected a blog post that explains how to use one aspect of the familysearch website. I configured my project with a due date for the course, the file type and to use machine translation and post editing. I chose this workflow because the passage is not particularly complex so I assumed that a machine translation with some human refinement would be sufficient. After setting up the project, I uploaded a pdf of the website that I wanted to translate. Then, it automatically completed the first stage in the workflow using machine translation. Then I worked through the post-edit step either approving or updating translations. The majority of changes that I made were to technology terms but other changes included updating information that was out of date and fixing a passage where the wrong meaning of “about” was used. As I completed this process it made me realize that I would have preferred to have someone else confirm the translation so an alternate workflow might have inspired more confidence.<br/><br/>
 Overall, I felt like creating a project was relatively simple and the CAT tool did a lot to organize the process and to track progress. It succeeded in pulling out the text from a pdf of a website without errors. The machine translation happened without any human intervention and loaded into the next part of the workflow.<br/><br/>
