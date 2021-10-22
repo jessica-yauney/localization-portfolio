@@ -42,12 +42,12 @@ Overall, localization is only going to grow but it may look substantially differ
 <br/>
 
 Sources:
-* Data residency laws by country: An overview(https://incountry.com/blog/data-residency-laws-by-country-overview/)
-* State Laws Related to Digital Privacy(https://www.ncsl.org/research/telecommunications-and-information-technology/state-laws-related-to-internet-privacy.aspx)
-* FamilySearch Now Available in 30 Languages(https://media.familysearch.org/familysearch-now-available-in-30-languages/)
-* The World's Languages in 7 Maps and Charts(https://www.washingtonpost.com/news/worldviews/wp/2015/04/23/the-worlds-languages-in-7-maps-and-charts/)
-* Cultural Homogeneity(https://www.sciencedirect.com/topics/social-sciences/cultural-homogeneity)
-* Occupational Outlook Handbook (https://www.bls.gov/ooh/office-and-administrative-support/desktop-publishers.htm)
+* [Data residency laws by country: An overview](https://incountry.com/blog/data-residency-laws-by-country-overview/)
+* [State Laws Related to Digital Privacy](https://www.ncsl.org/research/telecommunications-and-information-technology/state-laws-related-to-internet-privacy.aspx)
+* [FamilySearch Now Available in 30 Languages](https://media.familysearch.org/familysearch-now-available-in-30-languages/)
+* [The World's Languages in 7 Maps and Charts](https://www.washingtonpost.com/news/worldviews/wp/2015/04/23/the-worlds-languages-in-7-maps-and-charts/)
+* [Cultural Homogeneity](https://www.sciencedirect.com/topics/social-sciences/cultural-homogeneity)
+* [Occupational Outlook Handbook](https://www.bls.gov/ooh/office-and-administrative-support/desktop-publishers.htm)
 
 
 ### Other Work Examples:
