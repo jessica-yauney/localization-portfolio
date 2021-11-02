@@ -16,7 +16,8 @@ In an attempt to overcome some of the challenges I faced the first time, I compl
 
 #### Project 2: Group Presentation on Localization Roles
 
-Presentation
+[Desktop Publishing Presentation](https://docs.google.com/presentation/d/1pO0NHgwAmlsdD1Oz9nJ2z2vLAZTlAUVcNkvCr4XVVso/present)
+<br/>
 #### Project 3: Group Localization Project
 
 Proposal
