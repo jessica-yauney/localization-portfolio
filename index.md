@@ -1,4 +1,3 @@
-![alt text](https://github.com/jessica-yauney/localization-portfolio/blob/main/67326701.png)
 ## Jessica Yauney's Localization Porfolio
 ### Introduction
 
