@@ -21,7 +21,8 @@ In an attempt to overcome some of the challenges I faced the first time, I compl
 #### Project 3: Group Localization Project
 
 Proposal
-Project Deliverables
+Project Deliverable:
+[Subtitled Version of "Tales of Ba Sing Se Iroh"](https://youtu.be/J3zIjx7aJg0)<br/>
 Presentation file(s) for Post-Mortem/Lessons Learned
 ### Final Essay
 #### What is the future of localization?
