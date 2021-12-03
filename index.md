@@ -19,11 +19,10 @@ In an attempt to overcome some of the challenges I faced the first time, I compl
 [Desktop Publishing Presentation](https://docs.google.com/presentation/d/1pO0NHgwAmlsdD1Oz9nJ2z2vLAZTlAUVcNkvCr4XVVso/present)
 <br/>
 #### Project 3: Group Localization Project
+[Project Proposal](https://docs.google.com/document/d/1a9TVIZNZF5jVSz3wmjwoXvaff5LQMZt-D2OscDl6Pbc/edit?usp=sharing)
+<br/>[Subtitled Version of "Tales of Ba Sing Se Iroh"](https://youtu.be/J3zIjx7aJg0)
+<br/>[Presentation Document](https://docs.google.com/presentation/d/1BJIpGaj27CR4itgZOfAzjRyxGgg4O_FkKP_dR2MEvA4/edit?usp=sharing)<br/>
 
-Proposal
-Project Deliverable:
-[Subtitled Version of "Tales of Ba Sing Se Iroh"](https://youtu.be/J3zIjx7aJg0)<br/>
-Presentation file(s) for Post-Mortem/Lessons Learned
 ### Final Essay
 #### What is the future of localization?
 
